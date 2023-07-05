@@ -1,2 +1,2 @@
 # NotePad
-Simple NotePad app
+Simple NotePad app created with QT Framework
